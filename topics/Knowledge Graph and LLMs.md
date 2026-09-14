@@ -112,11 +112,15 @@ guide the search process.
 22. Language Models over Large-Scale Knowledge Base: on Capacity, Flexibility and Reasoning for New Facts (COLING 2025)
 23. Construction and Canonicalization of Economic Knowledge Graphs with LLMs (KGSWC 2024) [[Link](https://books.google.com.hk/books?hl=zh-CN&lr=&id=3yhGEQAAQBAJ&oi=fnd&pg=PA334&ots=KPSlLdVk8m&sig=HW4PzpubB902d1_dLgwv_UWpIGY&redir_esc=y#v=onepage&q&f=false)]
 24. Utilizing Language Models For Synthetic Knowledge Graph Generation (ICLR 2025 Workshop Data Problems) [[Paper](https://openreview.net/forum?id=IutH9tRtMI)]
+25. SSKG Hub: An Expert-Guided Platform for LLM-Empowered Sustainability Standards Knowledge Graphs (arXiv 2026) [[Paper](https://arxiv.org/abs/2603.00669)] [[Platform](https://www.sskg-hub.com/)]
+> * LLM extraction turns sustainability disclosure standards (GRI, SASB, TCFD, IFRS S2) into provenance-linked Draft KGs that domain experts review and promote to Certified KGs under role-based governance.
 25. Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion (ISWC 2024) [[Paper](https://arxiv.org/pdf/2407.16127)]
 26. CypherBench: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era (ACL 2025)
 27. Generating Domain-Specific Knowledge Graphs from Large Language Models (ACL 2025)
 28. Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in Bioinformatics, KGE on BERT based LM) [[Paper](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)]
 29. Combining Self-Retrieval-Augmented Generation with Divide-and-Conquer for Language Model-based Knowledge Base Construction (KBC-LM and LM-KBC @ ISWC 2025) [[Paper](https://ceur-ws.org/Vol-4041/paper11.pdf)]
+30. KG4ESG: The ESG Knowledge Graph Atlas (Preprints 2026) [[Paper](https://www.preprints.org/manuscript/202602.1970)]
+> * An LLM-empowered knowledge graph atlas for the Environmental, Social, and Governance (ESG) domain, integrating ESG standards, frameworks, and entities.
 
 ## 📝 Knowledge Graphs for LLMs
 ```
@@ -139,6 +143,7 @@ Personally, KG for preparing training data (in pre-training, post-training, SFT)
 2. Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024-Findings, UIUC+Amazon+Upenn+UV, Han Jiawei) [[Paper](https://aclanthology.org/2024.findings-acl.11.pdf)]
 3. REASONING-ENHANCED HEALTHCARE PREDICTIONS WITH KNOWLEDGE GRAPH COMMUNITY RETRIEVAL (ICLR 2025, Han Jiawei) [[Paper](https://arxiv.org/pdf/2410.04585)]
 4. Knowledge Graph Finetuning Enhances Knowledge Manipulation in Large Language Models (ICLR 2025 Poster, Jieping Ye) [[Paper](https://openreview.net/forum?id=oMFOKjwaRS)]
+5. KBLAM: KNOWLEDGE BASE AUGMENTED LANGUAGE MODEL [[Paper](https://arxiv.org/pdf/2410.10450)] (ICLR 2025)
 
 
 ### 3. KG for Inference
@@ -163,6 +168,8 @@ Since there are too many SOTA works, so we organize the results in a new page. [
 4. Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (ACL 2023 Workshop on Matching Entities) [[Paper](https://aclanthology.org/2023.nlrse-1.7.pdf)] - RAG and Prompting
 5. G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeurIPS 2024) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)] - RAG and Prompting
 6. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT (Arxiv 2023, hot) [[Paper](https://arxiv.org/pdf/2304.11116)]
+7. An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing (HCII 2026) [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31)]
+> * Domain experts curate knowledge graphs that structure the prompts driving LLMs in professional writing workflows — KG-based prompting with an expert in the loop.
 
 #### 3.4 KG as Grounded Truths/Benchmarks in Inference
 ``` 
